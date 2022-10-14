@@ -1,7 +1,7 @@
 # Awesome-Question-Answering
 Awesome Question Answering
 
-0.MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering
+0. MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering
 https://proceedings.mlr.press/v174/pal22a.html
 
 1. Medical Exam Question Answering with Large-scale Reading Comprehension
